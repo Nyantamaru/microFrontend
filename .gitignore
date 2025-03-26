@@ -38,3 +38,4 @@ next-env.d.ts
 .idea
 /ecomm/products/node_modules/
 /ecomm/products/dist/
+/ecomm/container/node_modules/
