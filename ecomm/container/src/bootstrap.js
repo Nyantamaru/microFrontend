@@ -1,2 +1,4 @@
-import 'products/ProductsIndex'
+import 'productsApp/ProductsIndex'
+//exposes: 'ProductsIndex'
+//'ProductsIndex' is an alias from remote app
 console.log('Container!!');
